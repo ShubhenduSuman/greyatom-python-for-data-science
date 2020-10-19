@@ -1,0 +1,1 @@
+This is the project about Student Management System, provided by GreyAtom to nourish the programming skill of students.
