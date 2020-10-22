@@ -1,0 +1,2 @@
+This project is about Handling the Program Flow in Python. It is provided by GreyAtom.
+In this project students will learn how to code using loops, conditional statements, comprehensions, open & close the file and get the data extracted from them, so a useful data can be derived.
